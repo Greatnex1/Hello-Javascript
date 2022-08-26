@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c56a5495-37c1-4e7e-bc98-2ef90f0472b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptingLanguage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Arry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/FiltersAndLoops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ListenerEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/PracticeFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Welcome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CeLlt2RIsSZJTbjfdyzSXoRMkE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Practice" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.PracticeFunction.js">
+    <configuration name="Arry.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Practice/Arry.js" working-dir="$PROJECT_DIR$/src/Practice">
+      <method v="2" />
+    </configuration>
+    <configuration name="FiltersAndLoops.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Practice/FiltersAndLoops.js" working-dir="$PROJECT_DIR$/src/Practice">
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeFunction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Practice/PracticeFunction.js" working-dir="$PROJECT_DIR$/src/Practice">
+      <method v="2" />
+    </configuration>
+    <configuration name="Welcome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Practice/Welcome.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.PracticeFunction.js" />
+        <item itemvalue="Node.js.FiltersAndLoops.js" />
+        <item itemvalue="Node.js.Arry.js" />
+        <item itemvalue="Node.js.Welcome.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c56a5495-37c1-4e7e-bc98-2ef90f0472b0" name="Changes" comment="" />
+      <created>1659158270380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659158270380</updated>
+      <workItem from="1659158272143" duration="2244000" />
+      <workItem from="1659167665552" duration="2530000" />
+      <workItem from="1659237906184" duration="30000" />
+      <workItem from="1659237957552" duration="17000" />
+      <workItem from="1659245574501" duration="9707000" />
+      <workItem from="1659504961821" duration="1438000" />
+      <workItem from="1659585121550" duration="4116000" />
+      <workItem from="1659678537445" duration="854000" />
+      <workItem from="1659977067485" duration="4647000" />
+      <workItem from="1660020057370" duration="603000" />
+      <workItem from="1660107261475" duration="551000" />
+      <workItem from="1660145453527" duration="242000" />
+      <workItem from="1660798927278" duration="2133000" />
+      <workItem from="1660801298442" duration="7867000" />
+      <workItem from="1660902882435" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
