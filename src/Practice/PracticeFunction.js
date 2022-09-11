@@ -38,3 +38,8 @@ console.log(createMsg.getMsg())
 const creator = sayHello();
 creator.sendGreeting("David", "Snowman");
 console.log(creator.getMsg())
+
+
+const timesTwo = (x) => x*2;
+timesTwo(2)
+console.log(timesTwo(2))

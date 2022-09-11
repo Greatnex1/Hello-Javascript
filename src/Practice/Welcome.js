@@ -55,3 +55,5 @@ function  browser(){
 }
 browser()
 
+console.dir('Hey')
+
